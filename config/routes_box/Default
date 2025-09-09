@@ -1,0 +1,11 @@
+{
+    "block_domain": "api.workos.com,\ncursor.com,\ndis.gd,\ndiscord.co,\ndiscord.com,\ndiscord.design,\ndiscord.dev,\ndiscord.gg,\ndiscord.gift,\ndiscord.gifts,\ndiscord.media,\ndiscord.new,\ndiscord.store,\ndiscord.tools,\ndiscord-activities.com,\ndiscordactivities.com,\ndiscordapp.com,\ndiscordapp.net,\ndiscordmerch.com,\ndiscordpartygames.com,\ndiscordsays.com,\ndiscordstatus.com,\nairhorn.solutions,\nairhornbot.com,\nbigbeans.solutions,\nwatchanimeattheoffice.com,\ndiscordapp.io,\ndiscordcdn.com,\nanimego.org,\ndiscord-attachments-uploads-prd.storage.googleapis.com,\ncdn.discordapp.com,\ngateway-us-east1-d.discord.gg,\naudio-ak-spotify-com.akamaized.net,\naudio4-ak-spotify-com.akamaized.net,\nbyspotify.com,\ncdn-spotify-experiments.conductrics.com,\nheads-ak-spotify-com.akamaized.net,\nheads4-ak-spotify-com.akamaized.net,\nopen.spotify.com,\npscdn.co,\nscdn.co,\nspoti.fi,\nspotify-everywhere.com,\nspotify.co,\nspotify.co.uk,\nspotify.com,\nspotify.com.edgesuite.net,\nspotify.de,\nspotify.design,\nspotify.fr,\nspotify.in,\nspotify.jp,\nspotify.map.fastly.net,\nspotify.map.fastlylb.net,\nspotify.net,\nspotify.org,\nspotify.ru,\nspotifycdn.com,\nspotifycdn.net,\nspotifycharts.com,\nspotifycodes.com,\nspotifyforbrands.com,\nspotifyjobs.com,\naccounts.scdn.co,\napis.spotify.com,\nauth.scdn.co,\nbouncer.spotify.com,\ncdn.spotify.com,\nclient.scdn.co,\nexternal.spotify.com,\nmedia.spotify.com,\nplay.spotify.com,\ns1.spotify.com,\ns2.spotify.com,\ns3.spotify.com,\ns4.spotify.com,\nspclient.wg.spotify.com,\nspotify.artworks.com,\nspotify.events.com,\nspotify.messaging.com,\nstatic.spotify.com,\nst.spotify.com,\nstatus.spotify.com,\nwww.scdn.co,\nchatgpt.com",
+    "custom": "{\"rules\": []}",
+    "def_outbound": "proxy",
+    "direct_dns": "https://doh.pub/dns-query",
+    "dns_final_out": "proxy",
+    "dns_routing": true,
+    "remote_dns": "https://dns.google/dns-query",
+    "sniffing_mode": 1,
+    "use_dns_object": false
+}

@@ -1,0 +1,27 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "vpn.inzeworld.com",
+        "flow": "xtls-rprx-vision",
+        "name": "Польша",
+        "pass": "4fbb4a83-c6ba-4119-ac69-40b1217559fe",
+        "port": 4433,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp",
+            "pbk": "AXRBVQ7V3s_IFFbY0lVJ1V_C3O7ABdFZOp7E3TSOxG0",
+            "sec": "tls",
+            "sni": "yahoo.com,www.yahoo.com"
+        }
+    },
+    "gid": 0,
+    "id": 0,
+    "traffic": {
+        "dl": 12749012970,
+        "ul": 44662619
+    },
+    "type": "vless",
+    "yc": 121
+}
