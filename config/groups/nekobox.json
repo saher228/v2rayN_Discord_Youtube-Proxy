@@ -23,7 +23,7 @@
     "mux_default_on": false,
     "mux_padding": false,
     "mux_protocol": "h2mux",
-    "mw_size": "1233x717",
+    "mw_size": "800x600",
     "remember_enable": false,
     "remember_id": -1919,
     "skip_cert": false,
@@ -43,9 +43,9 @@
     "traffic_loop_interval": 1000,
     "vpn_hide_console": true,
     "vpn_impl": 0,
-    "vpn_internal_tun": true,
+    "vpn_internal_tun": false,
     "vpn_ipv6": false,
     "vpn_mtu": 9000,
-    "vpn_rule_white": false,
+    "vpn_rule_white": true,
     "vpn_strict_route": false
 }
