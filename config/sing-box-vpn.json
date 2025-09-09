@@ -95,7 +95,7 @@
         }
     ],
     "route": {
-        "final": "direct",
+        "final": "neko-socks",
         "auto_detect_interface": true,
         "rules": [
             {
@@ -140,18 +140,7 @@
                 ],
                 "outbound": "direct"
             }
-            ,{
-    "outbound": "neko-socks",
-    "process_name": [
-        "browser.exe",
-        "Discord.exe",
-        "Spotify.exe",
-        "cs2.exe",
-        "steam.exe",
-        "code.exe"
-    ]
-}
-
+            
             
             ,
             {

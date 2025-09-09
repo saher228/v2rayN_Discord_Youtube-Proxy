@@ -1,5 +1,4 @@
-[mixed-in]: inbound packet connection to 216.58.211.3:443
-INFO[0064] [4092436555 0ms] outbound/direct[direct]: outbound packet connection
+436555 0ms] outbound/direct[direct]: outbound packet connection
 INFO[0064] [4277321819 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57408
 INFO[0064] [4277321819 28ms] inbound/mixed[mixed-in]: inbound connection to steamcommunity.com:443
 INFO[0064] [4277321819 103ms] outbound/direct[bypass]: outbound connection to steamcommunity.com:443
@@ -438,3 +437,75 @@ INFO[0012] [1591841991 0ms] inbound/mixed[mixed-in]: inbound connection from 127
 INFO[0012] [1591841991 0ms] inbound/mixed[mixed-in]: inbound connection to 35.186.224.45:443
 INFO[0012] [1591841991 0ms] outbound/vless[proxy]: outbound connection to 35.186.224.45:443
 2025/09/09 14:13:33 nekobox_core grpc server listening at 127.0.0.1:50402
+2025/09/09 16:11:51 nekobox_core grpc server listening at 127.0.0.1:60720
+INFO[0003] [1524628082 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60824
+INFO[0003] [1524628082 0ms] inbound/mixed[mixed-in]: inbound packet connection to 8.8.8.8:53
+INFO[0003] [1524628082 0ms] outbound/direct[direct]: outbound packet connection
+INFO[0027] [4292122340 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60831
+INFO[0027] [4292122340 0ms] inbound/mixed[mixed-in]: inbound packet connection to 8.8.8.8:53
+INFO[0027] [4292122340 0ms] outbound/direct[direct]: outbound packet connection
+INFO[0003] [1710185623 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60846
+INFO[0003] [1710185623 0ms] inbound/mixed[mixed-in]: inbound packet connection to 8.8.8.8:53
+INFO[0003] [1710185623 0ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [796046234 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60859
+INFO[0002] [796046234 12ms] inbound/mixed[mixed-in]: inbound packet connection to 8.8.8.8:53
+INFO[0002] [796046234 17ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [2857066033 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60860
+INFO[0002] [2857066033 0ms] inbound/mixed[mixed-in]: inbound connection to client-update.fastly.steamstatic.com:443
+INFO[0003] [2857066033 150ms] outbound/direct[bypass]: outbound connection to client-update.fastly.steamstatic.com:443
+INFO[0003] outbound/direct[direct]: outbound connection to 120.53.53.53:443
+INFO[0003] outbound/direct[direct]: outbound connection to 120.53.53.53:443
+INFO[0003] [2587478462 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60866
+INFO[0003] [2587478462 0ms] inbound/mixed[mixed-in]: inbound connection to 128.74.248.171:80
+INFO[0003] [2587478462 0ms] outbound/direct[direct]: outbound connection to 128.74.248.171:80
+INFO[0003] [1759075464 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60870
+INFO[0003] [1759075464 0ms] inbound/mixed[mixed-in]: inbound connection to 64.233.163.188:5228
+INFO[0003] [1759075464 0ms] outbound/direct[direct]: outbound connection to 64.233.163.188:5228
+INFO[0004] [780496301 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60874
+INFO[0004] [780496301 0ms] inbound/mixed[mixed-in]: inbound connection to 64.233.163.188:5228
+INFO[0004] [780496301 0ms] outbound/direct[direct]: outbound connection to 64.233.163.188:5228
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com CNAME client-update.fastly.steamstatic.com. 60 IN CNAME valve.map.fastly.net.
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com A valve.map.fastly.net. 60 IN A 146.75.123.82
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x003c, udp: 512 PADDING: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+INFO[0004] [2662858658 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60878
+INFO[0004] [2662858658 0ms] inbound/mixed[mixed-in]: inbound connection to 77.88.21.24:443
+INFO[0004] [2662858658 0ms] outbound/direct[direct]: outbound connection to 77.88.21.24:443
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com CNAME client-update.fastly.steamstatic.com. 60 IN CNAME valve.map.fastly.net.
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com AAAA valve.map.fastly.net. 60 IN AAAA 2a04:4e42:8e::850
+INFO[0004] dns: exchanged client-update.fastly.steamstatic.com OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x003c, udp: 512 PADDING: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+INFO[0006] [396423323 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60884
+INFO[0006] [396423323 0ms] inbound/mixed[mixed-in]: inbound connection to 64.233.163.188:5228
+INFO[0006] [396423323 1ms] outbound/direct[direct]: outbound connection to 64.233.163.188:5228
+INFO[0007] [3894515386 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60889
+INFO[0007] [3592369566 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60890
+INFO[0007] [3592369566 0ms] inbound/mixed[mixed-in]: inbound connection to 77.88.21.24:443
+INFO[0007] [3894515386 0ms] inbound/mixed[mixed-in]: inbound connection to 64.233.163.188:5228
+INFO[0007] [3894515386 1ms] outbound/direct[direct]: outbound connection to 64.233.163.188:5228
+INFO[0007] [3592369566 1ms] outbound/direct[direct]: outbound connection to 77.88.21.24:443
+INFO[0015] [320634922 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60897
+INFO[0015] [320634922 1ms] inbound/mixed[mixed-in]: inbound packet connection to 8.8.8.8:53
+INFO[0015] [320634922 3ms] outbound/direct[direct]: outbound packet connection
+INFO[0016] [310103928 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60898
+INFO[0016] [310103928 0ms] inbound/mixed[mixed-in]: inbound connection to client-update.fastly.steamstatic.com:443
+INFO[0016] [310103928 141ms] outbound/direct[bypass]: outbound connection to client-update.fastly.steamstatic.com:443
+INFO[0016] [238524721 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60902
+INFO[0016] [238524721 0ms] inbound/mixed[mixed-in]: inbound connection to 128.74.248.155:80
+INFO[0016] [238524721 0ms] outbound/direct[direct]: outbound connection to 128.74.248.155:80
+INFO[0017] [265965284 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60906
+INFO[0017] [265965284 0ms] inbound/mixed[mixed-in]: inbound connection to 108.177.14.188:5228
+INFO[0017] [265965284 0ms] outbound/direct[direct]: outbound connection to 108.177.14.188:5228
+INFO[0017] [680622840 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60910
+INFO[0017] [680622840 0ms] inbound/mixed[mixed-in]: inbound connection to 108.177.14.188:5228
+INFO[0017] [680622840 0ms] outbound/direct[direct]: outbound connection to 108.177.14.188:5228
+INFO[0017] [2815616013 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60914
+INFO[0017] [2815616013 0ms] inbound/mixed[mixed-in]: inbound connection to 77.88.21.24:443
+INFO[0017] [2815616013 0ms] outbound/direct[direct]: outbound connection to 77.88.21.24:443
+INFO[0020] [1633832333 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60918
+INFO[0020] [1633832333 0ms] inbound/mixed[mixed-in]: inbound connection to 108.177.14.188:5228
+INFO[0020] [1633832333 0ms] outbound/direct[direct]: outbound connection to 108.177.14.188:5228
+INFO[0020] [443649610 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60923
+INFO[0020] [1944022456 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60924
+INFO[0020] [443649610 0ms] inbound/mixed[mixed-in]: inbound connection to 108.177.14.188:5228
+INFO[0020] [1944022456 0ms] inbound/mixed[mixed-in]: inbound connection to 77.88.21.24:443
+INFO[0020] [443649610 0ms] outbound/direct[direct]: outbound connection to 108.177.14.188:5228
+INFO[0020] [1944022456 0ms] outbound/direct[direct]: outbound connection to 77.88.21.24:443

@@ -24,7 +24,7 @@
     "mux_padding": false,
     "mux_protocol": "h2mux",
     "mw_size": "800x600",
-    "remember_enable": false,
+    "remember_enable": true,
     "remember_id": -1919,
     "skip_cert": false,
     "splitter_state": "AAAA/wAAAAEAAAACAAAA3gAAAN4B/////wEAAAACAA==",
@@ -46,6 +46,6 @@
     "vpn_internal_tun": false,
     "vpn_ipv6": false,
     "vpn_mtu": 9000,
-    "vpn_rule_white": true,
+    "vpn_rule_white": false,
     "vpn_strict_route": false
 }
