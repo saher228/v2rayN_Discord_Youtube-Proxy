@@ -11,11 +11,14 @@ A GUI client for Windows  support [Xray](https://github.com/XTLS/Xray-core) and 
 
 3. В папке nekoray  ЗАПУСТИТЬ nekobox.exe
 
-4. НАСТРАИВАТЬ НИЧЕГО НЕ НУЖНО, ВСЁ УЖЕ СДЕЛАНО! ( ТОЛЬКО ДОБАВИТЬ СВОЙ URL Ключ  ПОДКЛЮЧЕНИЕ  CTRL+V  или правой мышкой на  пустое поле либо тыкаем на кнопку сверху "Программа > Добавить профиль из буфера обмена" >  И ВКЛЮЧИТЬ РЕЖИМ TUN СВЕРХУ (НАЖИМАТЬ ТОЛЬКО ПОСЛЕ ТОГО КАК ДОБАВИТЕ СВОЙ ПРОФИЛЬ))
+4. НАСТРАИВАТЬ НИЧЕГО НЕ НУЖНО, ВСЁ УЖЕ СДЕЛАНО! ( ТОЛЬКО ДОБАВИТЬ СВОЙ URL Ключ  ПОДКЛЮЧЕНИЕ  CTRL+V  или правой мышкой на  пустое поле либо тыкаем на кнопку сверху "Программа > Добавить профиль из буфера обмена" >  теперь надо нажать на сам профиль и нажать Enter для запуска > И ВКЛЮЧИТЬ РЕЖИМ TUN СВЕРХУ (НАЖИМАТЬ ТОЛЬКО ПОСЛЕ ТОГО КАК ДОБАВИТЕ СВОЙ ПРОФИЛЬ и запустите его))
 
 <img width="799" height="630" alt="image" src="https://github.com/user-attachments/assets/ea61de89-6e4c-4e4f-938f-2a4912bd7f43" />
 
 2.
+<img width="461" height="383" alt="image" src="https://github.com/user-attachments/assets/0cae20f3-ec55-4099-8931-42a1232842fe" />
+
+3.
 <img width="663" height="427" alt="image" src="https://github.com/user-attachments/assets/017f4c9a-dde4-41b3-b44f-6affb6c519de" />
 
 
