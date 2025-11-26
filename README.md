@@ -1,40 +1,85 @@
-# v2rayN
-A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box/releases)
+# FlClashX
+A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlClashX/releases/download/v0.2.1/FlClashX-0.2.1-windows-amd64-setup.exe)
 
 
 # RUSSIAN
 
-ПОЛНОСТЬЮ НАСТРОЕН И ГОТОВ ДЛЯ ОБХОДОВ ОГРАНИЧЕНИЙ. В АРХИВЕ ПРОСТАЯ ИНСТРУКЦИЯ, КАК ИСПОЛЬЗОВАТЬ. 
-ВСТАВИЛ КОНФИГ И ГОТОВО. ПРОКСИ НЕ ГЛОБАЛЬНОЕ, УКАЗАН ТОЛЬКО ЮТУБ И ДИСКОРД (ВОЙС РАБОТАЕТ).
+ПРОСТАЯ НАСТРОЙКА ДЛЯ ОБХОДОВ ОГРАНИЧЕНИЙ.
+ВСТАВИЛ ССЫЛКУ И ИЛИ НАЖАЛ НА КНОПКУ «ДОБАВЛЕНИЕ», ГОТОВО. ПРОКСИ НЕ ГЛОБАЛЬНОЕ, УКАЗАНЫ ПРАВИЛА..
 
-1. РАСПОКОВАТЬ
+1. СКАЧАТЬ И УСТАНОВИТЬ
 
-2. ЗАПУСТИТЬ УСТАНОВИТЬ ПО ЖЕЛАНИЮ  ДЛЯ КОРРЕКТНОЙ РАБОТЫ v2rayN windowsdesktop-runtime-8.0.15-win-x64.exe
+3. НА РАБОЧЕМ СТОЛЕ ЗАПУСТИТЬ FlashX.
 
-3. В папке v2rayn  ЗАПУСТИТЬ v2rayN.exe
+4. ДАЛЬШЕ ПОВТОРЯЙТЕ ВСЁ КАК НА СКРИНШОТАХ.
 
-4. НАСТРАИВАТЬ НИЧЕГО НЕ НУЖНО, ВСЁ УЖЕ СДЕЛАНО! ( ТОЛЬКО ДОБАВИТЬ СВОЙ КОНФИГ ПОДКЛЮЧЕНИЕ CTRL+C - CTRL+V или тыкаем на кнопку сверху "Сервера > Импорт массива URL из буфера обмена" >  И ВКЛЮЧИТЬ РЕЖИМ VPN СНИЗУ )
+1. ДОБАВЬТЕ СВОЙ URL, ПРОФИЛЬ ИЛИ КЛЮЧ ЛИБО НАЖМИТЕ КНОПКУ «ДОБАВИТЬ» В САМОЙ ПОДПИСКЕ, ЕСЛИ ОНА РАБОТАЕТ.
+   
+3. <img width="546" height="931" alt="image" src="https://github.com/user-attachments/assets/08ab5fa2-922f-40e2-ace2-6f2c144175dd" />
+
+
+
+<img width="528" height="727" alt="image" src="https://github.com/user-attachments/assets/42ce1e87-6473-4eb5-9abd-7348c7bc128f" />
+
+
+
+
+<img width="640" height="729" alt="image" src="https://github.com/user-attachments/assets/1a4c5b62-20d3-498f-8f2f-52fd63893ddb" />
+
+
+
+
+4. В РАЗДЕЛЕ *«ПРОФИЛИ»* НАЖМИТЕ НА 3 ТОЧКИ СВОЕГО ПРОФИЛЯ, УКАЗАНЫ СТРЕЛКАМИ НА СКРИНШОТЕ.
+
+
+
+<img width="538" height="916" alt="image" src="https://github.com/user-attachments/assets/6caf7b09-c020-467d-a475-490fdea85639" />
+
+
+
+5.НАЖМИТЕ ПЕРЕОПРЕДЕЛИТЬ 
+
+<img width="404" height="506" alt="image" src="https://github.com/user-attachments/assets/d91372ae-f548-4525-9e8f-3f0d8e2354ed" />
+
+
+6. НАЖМИТЕ НА ЗНАЧОК В ВИДЕ + ФАЙЛИКА И НАЖИМАЕТЕ «ПОЛУЧИТЬ ОРИГИНАЛЬНЫЕ ПРАВИЛА».
+
+   
+<img width="532" height="908" alt="image" src="https://github.com/user-attachments/assets/f302a7e7-81a2-44bf-8de0-ba0524092c82" />
+
+
+<img width="593" height="649" alt="image" src="https://github.com/user-attachments/assets/30169034-1537-4761-8715-9ae10d201bd7" />
+
+
+7. ВЫБЕРЕТЕ В СПИСКЕ 6 ПРАВИЛ, ГДЕ ПОДПИСАНО ГЛОБАЛЬНО!!! И НАЖМИТЕ УДАЛИТЬ.
+
+
+   
+<img width="530" height="1049" alt="image" src="https://github.com/user-attachments/assets/cc3c7c4d-97d4-465a-b190-f353899f4634" />
+
+
+
+
+9. НАЖИМАЕТЕ ВКЛЮЧИТЬ ПЕРЕОПРЕДЕЛЕНИЕ И НА КНОПКУ СОХРАНИТЬ, ТО, ЧТО В УГЛУ.
+
+
+
+
+<img width="548" height="507" alt="image" src="https://github.com/user-attachments/assets/13646b7e-ffe0-4b98-b387-26503f924b54" />
+
+
+
+
+10. ТЕПЕРЬ МОЖЕТЕ ПЕРЕЙТИ НАЗАД И НАЖАТЬ ГЛАВНАЯ И НАЖИМАЕТЕ ЗАПУСТИТЬ (ОБЯЗАТЕЛЬНО ПРОВЕРЬТЕ И УДАЛИТЕ ИЛИ ОТКЛЮЧИТЕ NEKOBOX, ЕСЛИ ИСПОЛЬЗОВАЛИ).
+
+
+
+<img width="538" height="1048" alt="image" src="https://github.com/user-attachments/assets/d38a1c54-06e5-4d23-84e0-5e07ad9675c4" />
+
+
+
+
 
 5. НАСЛАЖДАЙТЕСЬ! 
-   
-    !!!!ПРИМЕЧАНИЕ!!!!
- ЕСЛИ ДОБАВЛЯТЬ ДРУГИЕ САЙТЫ ДЛЯ ПРОКСИРОВАНИЯ ИЛИ ПРИЛОЖЕНИЕ СВЕРХУ В ПАНЕЛЕ > НАСТРОЙКИ > НАСТРОЙКИ МАРШУРТИЗАЦИИ > ВЫБИРАЕМ (ПРОКСИ, ДИСКОРД, ЮТУБ И Т. Д.) > НЕСКОЛЬКО РАЗ ЖМЁМ ПО ПРАВЕЛУ (YouTube и другое) > ДАЛЕЕ ВЫ УВИДЕТЕ ДОМЕНЫ И В САМОМ НИЗУ ЧЕРЕЗ ЗАПЯТУЮ ДОБАВЛЯЕТЕ НУЖНЫЕ ВАМ САЙТЫ В > FULL PROCESS NAME ДОБАВЛЯЕМ ТАК ЖЕ К  ПРИМЕРУ: 
-Spotify.exe,
-Ubisoft Connect.exe
- 
-# ENGLISH
 
-IT IS FULLY CONFIGURED AND READY TO BYPASS RESTRICTIONS. THE ARCHIVE CONTAINS SIMPLE INSTRUCTIONS ON HOW TO USE IT. 
-I INSERTED THE CONFIG AND IT'S DONE. THE PROXY IS NOT GLOBAL, ONLY YOUTUBE AND DISCORD ARE SPECIFIED (VOICE IS WORKING).
 
-1. RUN INSTALL AS DESIRED FOR CORRECT OPERATION OF v2rayN windowsdesktop-runtime-8.0.15-win-x64.exe
-
-2. In the v2rayn folder, RUN v2rayN.exe
-
-3. YOU DON'T NEED TO CONFIGURE ANYTHING, EVERYTHING IS ALREADY DONE! (JUST ADD YOUR CONNECTION CONFIG CTRL+C - CTRL+V or click on the button on top of "Server > Import URL array from clipboard" > AND ENABLE VPN MODE FROM BELOW )
-
-4. ENJOY!   
-    !!!!NOTE!!!!
- IF YOU ADD OTHER SITES FOR PROXYING OR AN APPLICATION FROM ABOVE IN THE PANEL > SETTINGS > MARSHALLING SETTINGS > SELECT (PROXY, DISCORD, YOUTUBE, ETC.) > RIGHT-CLICK SEVERAL TIMES (YouTube and other) > NEXT, YOU WILL SEE THE DOMAINS AND AT THE VERY BOTTOM, SEPARATED BY COMMAS, ADD THE SITES YOU NEED TO > FULL PROCESS NAME, ADD THE SAME FOR EXAMPLE: 
-Spotify.exe,
-Ubisoft Connect.exe
