@@ -60,7 +60,7 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 
 
 
-9. НАЖИМАЕТЕ ВКЛЮЧИТЬ ПЕРЕОПРЕДЕЛЕНИЕ И НА КНОПКУ СОХРАНИТЬ, ТО, ЧТО В УГЛУ.
+8. НАЖИМАЕТЕ ВКЛЮЧИТЬ ПЕРЕОПРЕДЕЛЕНИЕ И НА КНОПКУ СОХРАНИТЬ, ТО, ЧТО В УГЛУ.
 
 
 
@@ -70,7 +70,7 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 
 
 
-10. ТЕПЕРЬ МОЖЕТЕ ПЕРЕЙТИ НАЗАД И НАЖАТЬ ГЛАВНАЯ И НАЖИМАЕТЕ ЗАПУСТИТЬ (ОБЯЗАТЕЛЬНО ПРОВЕРЬТЕ И УДАЛИТЕ ИЛИ ОТКЛЮЧИТЕ NEKOBOX, ЕСЛИ ИСПОЛЬЗОВАЛИ).
+9. ТЕПЕРЬ МОЖЕТЕ ПЕРЕЙТИ НАЗАД И НАЖАТЬ ГЛАВНАЯ И НАЖИМАЕТЕ ЗАПУСТИТЬ (ОБЯЗАТЕЛЬНО ПРОВЕРЬТЕ И УДАЛИТЕ ИЛИ ОТКЛЮЧИТЕ NEKOBOX, ЕСЛИ ИСПОЛЬЗОВАЛИ).
 
 
 
@@ -80,6 +80,15 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 
 
 
-5. НАСЛАЖДАЙТЕСЬ! 
+10. НАСЛАЖДАЙТЕСЬ! 
+
+
+По желанию можете настроить автозапуск. Залетаете в инструменты приложения)
+
+<img width="555" height="940" alt="image" src="https://github.com/user-attachments/assets/8578a07f-e5e3-4eba-be29-d295504d900f" />
+
+ВСЁ, ЧТО НА СКРИНШОТЕ УКАЗАНО, МОЖЕТЕ ВКЛЮЧИТЬ.
+
+<img width="522" height="496" alt="image" src="https://github.com/user-attachments/assets/984224e7-a2da-47b5-be9e-a87eb72b86ff" />
 
 
