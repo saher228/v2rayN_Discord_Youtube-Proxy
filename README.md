@@ -110,7 +110,7 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 <img width="433" height="367" alt="image" src="https://github.com/user-attachments/assets/32a9aa23-b312-4cb0-86f3-b49016d6b6be" />
 
 
-### ПОСЛЕ ЧЕГО ВСТАВЛЯЕМ НУЖНЫЙ НАМ ДОМЕН (ПРИМЕР НА СКРИНШОТЕ) И ПОСЛЕ ЧЕГО ЖМЁМ «ПОДТВЕРДИТЬ». 
+### ПОСЛЕ ЧЕГО ВСТАВЛЯЕМ НУЖНЫЙ НАМ ДОМЕН (ПРИМЕР НА СКРИНШОТЕ, ДОБАВЛЯТЬ ДОМЕН ЮЕЗ https:// ) И ПОСЛЕ ЧЕГО ЖМЁМ «ПОДТВЕРДИТЬ». 
 
 
 <img width="366" height="367" alt="image" src="https://github.com/user-attachments/assets/c367627b-542a-48ac-8f61-d1f59e59098c" />
