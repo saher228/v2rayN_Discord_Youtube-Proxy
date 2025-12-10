@@ -92,3 +92,32 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 <img width="522" height="496" alt="image" src="https://github.com/user-attachments/assets/984224e7-a2da-47b5-be9e-a87eb72b86ff" />
 
 
+
+
+
+# ДОПОЛНЕНИЕ: КАК ДОБАВИТЬ ДОМЕН!
+
+
+### В ОКНЕ ПЕРЕОПРЕДИЛИТЬ НАЖИМАЕМ ДОБАВИТЬ 
+<img width="500" height="582" alt="image" src="https://github.com/user-attachments/assets/d4f5b943-e2b1-431e-a150-2d5895a95bc3" />
+
+### ЖМЁМ НА DOMAIN 
+
+<img width="427" height="436" alt="image" src="https://github.com/user-attachments/assets/2eef60bf-916b-47a8-a3ae-03dd12d7b080" />
+
+### ПОСЛЕ ЧЕГО ВЫБИРАЕМ DOMAIN_SUFFIX.
+
+<img width="433" height="367" alt="image" src="https://github.com/user-attachments/assets/32a9aa23-b312-4cb0-86f3-b49016d6b6be" />
+
+
+### ПОСЛЕ ЧЕГО ВСТАВЛЯЕМ НУЖНЫЙ НАМ ДОМЕН (ПРИМЕР НА СКРИНШОТЕ) И ПОСЛЕ ЧЕГО ЖМЁМ «ПОДТВЕРДИТЬ». 
+
+
+<img width="366" height="367" alt="image" src="https://github.com/user-attachments/assets/c367627b-542a-48ac-8f61-d1f59e59098c" />
+
+
+### ЖМЁМ «СОХРАНИТЬ» И ЖДЁМ ПАРУ СЕКУНД ИЛИ БОЛЬШЕ, ПЕРЕЗАПУСКАТЬ НЕЧЕГО НЕ НУЖНО, ОНО ПРЕМЕНЯЕТСЯ В РЕАЛЬНОМ ВРЕМЕНИ.
+
+<img width="523" height="376" alt="image" src="https://github.com/user-attachments/assets/571dd598-f72b-4c67-a572-b09bd3fe254b" />
+
+
