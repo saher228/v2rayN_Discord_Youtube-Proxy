@@ -51,11 +51,6 @@ A GUI client for Windows  support [FlClashX](https://github.com/pluralplay/FlCla
 <img width="593" height="649" alt="image" src="https://github.com/user-attachments/assets/30169034-1537-4761-8715-9ae10d201bd7" />
 
 
-7. ВЫБЕРЕТЕ В СПИСКЕ 6 ПРАВИЛ, ГДЕ ПОДПИСАНО ГЛОБАЛЬНО!!! И НАЖМИТЕ УДАЛИТЬ.
-
-
-   
-<img width="530" height="1049" alt="image" src="https://github.com/user-attachments/assets/cc3c7c4d-97d4-465a-b190-f353899f4634" />
 
 
 
